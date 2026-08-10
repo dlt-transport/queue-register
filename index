@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <title>Display Queue</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      overflow: hidden;
+      background-color: black;
+    }
+    iframe {
+      border: none;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <iframe
+    src="https://script.google.com/macros/s/AKfycbwJfX_zFhONJBfGMM3oltLUVTGj_wr6BjEPlgGAJ9sE1bjVkseiil3gK2ta6HkD_jv7/exec?page=register"
+    allow="autoplay">
+  </iframe>
+</body>
+</html>
