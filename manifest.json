@@ -1,11 +1,11 @@
 {
-  "name": "Inspection Queue Register",
-  "short_name": "คิวงานตรวจสภาพรถ",
+  "name": "ระบบกดคิวงานตรวจสภาพรถ",
+  "short_name": "กดคิวตรวจสภาพรถ",
   "start_url": "./index.html",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#ffffff",
-  "theme_color": "#6c5ce7",
+  "orientation": "any",
+  "background_color": "#5ec5cd",
+  "theme_color": "#5ec5cd",
   "icons": [
     {
       "src": "https://lh3.googleusercontent.com/d/19WRyuKLJsCyQVQk04sjqbZNgwf5a3ojD",
